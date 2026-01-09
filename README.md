@@ -1,3 +1,4 @@
+                           HI! I'm SAKSHI GUPTA
 # 💫 About Me:
 🔭 Data analysis projects using Python, SQL, and Excel to derive insights and build data-driven solutions.<br>👯 I’m looking to collaborate on Data analytics, data visualization, and beginner-friendly data science or full-stack projects.<br>🤝 I’m looking for help with Advanced data analytics concepts, real-world datasets, and industry-level best practices.<br>🌱 I’m currently learning Advanced Python for data analysis, data visualization tools, and improving my SQL skills.<br>💬 Ask me about Python, Excel, SQL, HTML, CSS, JavaScript and basics of data analytics.<br>⚡ Fun fact
 
